@@ -1,0 +1,12 @@
+* {
+    box-sizing: border-box;
+}
+
+textarea {
+    width: 693px;
+    height: 340px;
+}
+
+input {
+    width: 693px;
+}
